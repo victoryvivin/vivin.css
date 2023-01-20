@@ -1,0 +1,19 @@
+ul{
+list-style: none;
+display: flex;
+justify-content: space-evenly;
+}
+.head{
+    background-color: darkblue;
+    color: aliceblue;
+}
+.img{
+    display: flex;
+    display: flex;
+    justify-content: center;
+    color: darkblue;
+}
+.dropdown{
+    display: flex;
+    justify-content: center;
+}
